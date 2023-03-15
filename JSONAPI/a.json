@@ -1,0 +1,76 @@
+{
+    "Animals": [
+        {
+            "nombre": "Luna",
+            "edad": 3,
+            "especie": "Gato",
+            "raza": "Persa",
+            "color": "Negro",
+            "peso": 4.5
+        },
+        {
+            "nombre": "Toby",
+            "edad": 5,
+            "especie": "Perro",
+            "raza": "Golden Retriever",
+            "color": "Dorado",
+            "peso": 28
+        },
+        {
+            "nombre": "Nemo",
+            "edad": 1,
+            "especie": "Pez",
+            "raza": "Payaso",
+            "color": "Naranja",
+            "peso": 0.1
+        },
+        {
+            "nombre": "Kiara",
+            "edad": 2,
+            "especie": "Gato",
+            "raza": "Siames",
+            "color": "Gris",
+            "peso": 3
+        },
+        {
+            "nombre": "Rocky",
+            "edad": 7,
+            "especie": "Perro",
+            "raza": "Bulldog",
+            "color": "Marron",
+            "peso": 25
+        }
+    ],
+    "Cars": [
+        {
+            "make": "Ford",
+            "model": "Mustang",
+            "year": 2015,
+            "color": "Rojo"
+        },
+        {
+            "make": "Toyota",
+            "model": "Corolla",
+            "year": 2020,
+            "color": "Negro"
+        },
+        {
+            "make": "BMW",
+            "model": "Serie 3",
+            "year": 2018,
+            "color": "Blanco"
+        },
+        {
+            "make": "Audi",
+            "model": "A4",
+            "year": 2017,
+            "color": "Gris"
+        },
+        {
+            "make": "Chevrolet",
+            "model": "Camaro",
+            "year": 2019,
+            "color": "Amarillo"
+        }
+    ]
+}
