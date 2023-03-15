@@ -3,8 +3,8 @@ import json
 from Felipe.cat import Cat
 from Felipe.Vehicle import Vehicle
 
-from Animal import Animal
-from Car import Car
+from Alex.Animal import Animal
+from Alex.Car import Car
 
 cats = [
     Cat("Whiskers", 3, "Siamese", "White", 5.2, "Male"),
@@ -58,5 +58,5 @@ car_dict_list = [car.to_dict() for car in car_list]
 data = {"Animals": animal_dict_list, "Cars": car_dict_list}
 
 # Guardar el objeto contenedor en un archivo .json
-with open("json_API/a.json", "w") as outfile:
+with open("JSONAPI/a.json", "w") as outfile:
     json.dump(data, outfile, indent=4)
